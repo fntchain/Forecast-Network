@@ -38,7 +38,7 @@ In order to change public url you have to update:
 1. `package.json`
 
    ```diff
-   -  "homepage": "https://keenthemes.com/metronic/preview/react",
+   -  "homepage": "https://my.domain/metronic/preview/react",
    +  "homepage": "https://my.domain/my/app",
        "scripts": {
    -     "serve": "cp-cli build _site/metronic/preview/react && serve",
